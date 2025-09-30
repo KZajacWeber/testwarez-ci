@@ -28,11 +28,11 @@ Twój laptop nie powinien mieć ograniczeń, takich jak:
 
 #### 1. Zainstaluj VS Code IDE  
 Pobierz i zainstaluj z:  
-👉 [https://code.visualstudio.com/download](https://code.visualstudio.com/download)  
+[https://code.visualstudio.com/download](https://code.visualstudio.com/download)  
 
 #### 2. Zainstaluj Java JDK (wersja 11 lub nowsza)  
 Pobierz z:  
-👉 [https://www.oracle.com/java/technologies/downloads/](https://www.oracle.com/java/technologies/downloads/)  
+[https://www.oracle.com/java/technologies/downloads/](https://www.oracle.com/java/technologies/downloads/)  
 
 Po instalacji otwórz **CMD** i sprawdź instalację:
 ```bash
@@ -44,7 +44,7 @@ Obie komendy powinny zwrócić zainstalowaną wersję JDK.
 
 #### 3. Zainstaluj Python (wersja 3.13.2)  
 Pobierz z:  
-👉 [https://www.python.org/downloads/](https://www.python.org/downloads/)  
+[https://www.python.org/downloads/](https://www.python.org/downloads/)  
 
 Podczas instalacji upewnij się, że zaznaczyłeś opcję:  
 `Add python.exe to PATH`  
