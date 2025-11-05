@@ -7,5 +7,5 @@ def test_get_user_request():
     session = requests.session()
     response = session.get(url)
     
-    assert (response.status_code == 200), f"Status Code validation failed for {response.request.url}"
+    assert (response.status_code == 300), f"Status Code validation failed for {response.request.url}"
     yield
