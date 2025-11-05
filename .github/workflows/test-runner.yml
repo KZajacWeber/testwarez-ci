@@ -79,3 +79,4 @@ jobs:
             </body></html>
           to: ${{ secrets.RECIPIENT_EMAIL }}
           from: ${{ secrets.SMTP_USERNAME }}
+          
