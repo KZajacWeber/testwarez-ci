@@ -2,8 +2,8 @@ name: Python Tests
 run-name: Rest API Python Tests
 
 on:
-  schedule:
-    - cron: "*/2 * * * *"
+  # schedule:
+  #   - cron: "*/2 * * * *"
   push:
 
 jobs:
@@ -79,4 +79,3 @@ jobs:
             </body></html>
           to: ${{ secrets.RECIPIENT_EMAIL }}
           from: ${{ secrets.SMTP_USERNAME }}
-          
